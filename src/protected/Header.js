@@ -30,7 +30,7 @@ const Header = (props) => {
        <nav>
           <span><div className='menu-btn' onMouseEnter={showlist}><div></div><div></div><div></div></div> <p>G-STORE</p></span>
           <span><input tyle="text"/><img src={magnifier} alt="search" className='lens'/></span>
-          <span><NavLink to="gstore/Cart" className="Link" onClick={()=>navigate('gstore/Cart')}><img src={cart} alt="cart"/></NavLink>&nbsp;
+          <span><NavLink to="/Cart" className="Link" onClick={()=>navigate('/Cart')}><img src={cart} alt="cart"/></NavLink>&nbsp;
           <NavLink className="Link" onMouseOver={showUserinfo} ><AiOutlineUser size={40}/></NavLink></span>
       </nav>
       <div className='userinfo' id="userinfo" ref={hidemenu} onMouseLeave={HideUserinfo}>
