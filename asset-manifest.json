@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gstore/github.io%20/static/css/main.d0ebc415.css",
+    "main.js": "/gstore/github.io%20/static/js/main.135a10b2.js",
+    "static/js/787.ae81b019.chunk.js": "/gstore/github.io%20/static/js/787.ae81b019.chunk.js",
+    "static/media/form-banner.png": "/gstore/github.io%20/static/media/form-banner.2010d14d3ea4a71b597f.png",
+    "static/media/bannerBG.png": "/gstore/github.io%20/static/media/bannerBG.90fc68613712b139b316.png",
+    "static/media/fruits.png": "/gstore/github.io%20/static/media/fruits.798c6b84ccb3bf9224a2.png",
+    "static/media/desserts.png": "/gstore/github.io%20/static/media/desserts.615d3ba3103cd7da34e9.png",
+    "static/media/mix-vegetable.jpg": "/gstore/github.io%20/static/media/mix-vegetable.88e7fb706c0caeca8c37.jpg",
+    "static/media/1170678.png": "/gstore/github.io%20/static/media/1170678.97286808f11c1417d6d2.png",
+    "static/media/magnifier.png": "/gstore/github.io%20/static/media/magnifier.2078c4fb1c04b6b24ac8.png",
+    "index.html": "/gstore/github.io%20/index.html",
+    "main.d0ebc415.css.map": "/gstore/github.io%20/static/css/main.d0ebc415.css.map",
+    "main.135a10b2.js.map": "/gstore/github.io%20/static/js/main.135a10b2.js.map",
+    "787.ae81b019.chunk.js.map": "/gstore/github.io%20/static/js/787.ae81b019.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0ebc415.css",
+    "static/js/main.135a10b2.js"
+  ]
+}
