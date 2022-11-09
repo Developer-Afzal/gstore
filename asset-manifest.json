@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.cce06696.css",
-    "main.js": "/static/js/main.c32bbd97.js",
-    "static/js/787.ae81b019.chunk.js": "/static/js/787.ae81b019.chunk.js",
-    "static/media/form-banner.png": "/static/media/form-banner.2010d14d3ea4a71b597f.png",
-    "static/media/bannerBG.png": "/static/media/bannerBG.90fc68613712b139b316.png",
-    "static/media/fruits.png": "/static/media/fruits.798c6b84ccb3bf9224a2.png",
-    "static/media/desserts.png": "/static/media/desserts.615d3ba3103cd7da34e9.png",
-    "static/media/mix-vegetable.jpg": "/static/media/mix-vegetable.88e7fb706c0caeca8c37.jpg",
-    "static/media/1170678.png": "/static/media/1170678.97286808f11c1417d6d2.png",
-    "static/media/magnifier.png": "/static/media/magnifier.2078c4fb1c04b6b24ac8.png",
-    "index.html": "/index.html",
-    "main.cce06696.css.map": "/static/css/main.cce06696.css.map",
-    "main.c32bbd97.js.map": "/static/js/main.c32bbd97.js.map",
-    "787.ae81b019.chunk.js.map": "/static/js/787.ae81b019.chunk.js.map"
+    "main.css": "/gstore/static/css/main.23410017.css",
+    "main.js": "/gstore/static/js/main.a5aac9e8.js",
+    "static/js/787.ae81b019.chunk.js": "/gstore/static/js/787.ae81b019.chunk.js",
+    "static/media/form-banner.png": "/gstore/static/media/form-banner.2010d14d3ea4a71b597f.png",
+    "static/media/bannerBG.png": "/gstore/static/media/bannerBG.90fc68613712b139b316.png",
+    "static/media/fruits.png": "/gstore/static/media/fruits.798c6b84ccb3bf9224a2.png",
+    "static/media/desserts.png": "/gstore/static/media/desserts.615d3ba3103cd7da34e9.png",
+    "static/media/mix-vegetable.jpg": "/gstore/static/media/mix-vegetable.88e7fb706c0caeca8c37.jpg",
+    "static/media/1170678.png": "/gstore/static/media/1170678.97286808f11c1417d6d2.png",
+    "static/media/magnifier.png": "/gstore/static/media/magnifier.2078c4fb1c04b6b24ac8.png",
+    "index.html": "/gstore/index.html",
+    "main.23410017.css.map": "/gstore/static/css/main.23410017.css.map",
+    "main.a5aac9e8.js.map": "/gstore/static/js/main.a5aac9e8.js.map",
+    "787.ae81b019.chunk.js.map": "/gstore/static/js/787.ae81b019.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cce06696.css",
-    "static/js/main.c32bbd97.js"
+    "static/css/main.23410017.css",
+    "static/js/main.a5aac9e8.js"
   ]
 }
