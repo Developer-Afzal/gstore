@@ -189,7 +189,18 @@ span input {
 }
 
 .public-nav {
-    justify-content: space-between
+    background-color: #de4b06;
+    background-color: var(--darkOrange-color);
+    box-sizing: border-box;
+    gap: 13vw;
+    height: 10vh;
+    position: fixed;
+    top: 0;
+    z-index: 111;
+    display: flex;
+    width: 100vw;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .public-nav strong {
