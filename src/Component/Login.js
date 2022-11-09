@@ -27,7 +27,7 @@ const Login = () => {
       console.log("it is working");
       console.log({email, pwd});
         localStorage.setItem('token', `afafakj${pwd}5858`);
-        Navigate('/dashboard')
+        Navigate('/gstore/dashboard')
         setemail("");
         setpwd("");
     }
