@@ -131,6 +131,7 @@ input {
 input {
     border: .5px solid #f79e5e;
     border: .5px solid var(--orange-color);
+    background-color: #fff;
     border-radius: 5px;
     margin-top: 20px;
     outline: none;
@@ -660,6 +661,11 @@ span input {
 
     .offer-item {
         display: none
+    }
+
+
+    input {
+        width:45vw;
     }
 
     .footer .conatiner {
