@@ -10,7 +10,7 @@ const Login = () => {
   const userpass = localStorage.getItem('pass');
     useEffect(()=>{
     if(localStorage.getItem('token')){
-      Navigate("/dashboard");
+      Navigate("/gstore/dashboard");
     }
   });
 
@@ -22,7 +22,7 @@ const Login = () => {
       alert("Input Feild is Empty");
     }else if(usermail!==email || userpass!==pwd){
       alert("Incorrect Username or Password");
-      return Navigate("/");
+      return Navigate("/gstore");
     }else{
       console.log("it is working");
       console.log({email, pwd});

@@ -7,14 +7,16 @@ import Register from './Component/Register';
 const App = () => {
   return (
     <>
+
       <BrowserRouter>
         <Routes>
-          <Route path="/gstore" element={<LoginScreen/>} />
-          <Route path="/gstore/Cart" element={<CartScreeen/>} />
-          <Route path="/gstore/dashboard" element={<Dashboard/>} />
-          <Route path="/gstore/register" element={<Register/>}/>
+          <Route path="/gstore" exact element={<LoginScreen/>} />
+          <Route path="/gstore/Cart" exact element={<CartScreeen/>} />
+          <Route path="/gstore/dashboard" exact element={<Dashboard/>} />
+          <Route path="/gstore/register" exact element={<Register/>}/>
         </Routes>
       </BrowserRouter>
+      
     </>
   )
 }

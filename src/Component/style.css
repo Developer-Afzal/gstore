@@ -109,6 +109,7 @@ input{
     outline: none;
     padding-left: 2vw;
     font-size: 16px;
+    background: #fff;
 
 }
 
@@ -125,6 +126,9 @@ nav{
     box-sizing: border-box;
     position: fixed;
     z-index: 111;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
     top:0;
 }
 
@@ -592,7 +596,7 @@ span input{
 /*  Responsive styling Start Here */
 @media(max-width:1400px){
     nav{
-        gap:13vw;
+        gap:11vw;
     }
 }
 
@@ -642,6 +646,10 @@ span input{
             width:40vw;
         }     
 
+        input{
+            width: 60vw;
+        }
+
         .banner-left button {
             padding: 5px 25px;
         }
@@ -649,8 +657,6 @@ span input{
         .heading{
             margin: 5px 0px 20px 0px;
         }
-
-
 
         .offer-container{
             height:20vh;
@@ -663,9 +669,6 @@ span input{
             display: none;
         
         }
-
-
-
 
         .footer .conatiner{
             flex-wrap: wrap;
@@ -682,7 +685,6 @@ span input{
         .left-box{
             width:100vw;
         }
-
 
         .footer .second-box p{
             padding: 5px;
