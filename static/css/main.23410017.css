@@ -665,7 +665,11 @@ span input {
 
 
     input {
-        width:45vw;
+        width:60vw;
+    }
+
+    .form-container form p{
+        height: 250px;
     }
 
     .footer .conatiner {
